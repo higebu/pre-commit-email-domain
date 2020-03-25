@@ -4,3 +4,4 @@
   language: 'script'
   description: "Check email domain"
   pass_filenames: false
+  always_run: true
