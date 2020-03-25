@@ -1,0 +1,5 @@
+- repo: .
+  rev: master
+  hooks:
+  - id: check-email-domain
+    args: ["example.com"]

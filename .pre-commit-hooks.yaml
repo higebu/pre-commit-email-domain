@@ -1,0 +1,6 @@
+- id: check-email-domain
+  name: 'check email domain'
+  entry: check-email-domain.sh
+  language: 'script'
+  description: "Check email domain"
+  pass_filenames: false
